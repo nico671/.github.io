@@ -1,0 +1,14 @@
+Package: com.yourcompany.transparentdock
+Name: my test tweaks
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Removes the dock and makes the page dots go away.
+Maintainer: Nico Carbone
+Author: Nico Carbone
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: com.yourcompany.transparentdock_0.0.1-1+debug_iphoneos-arm.debparentdock
+Size: 3550
+MD5sum: 63ee063cdcdd9ed6c068791165f37c47
+SHA1: 885be26409d7de1ab67e7eea1357668155b3af3b
+SHA256: 8060c690bf510ad21aa855a91a896ebec629272eba3353d3df9e794a1ec67cd1
